@@ -4,7 +4,7 @@ import Hero from './components/hero.jsx'
 function App() {
 
   return (
-      <div className="bg-gray-950 text-slate-50 w-screen h-screen">
+      <div className="bg-[#010101] text-slate-50 w-screen">
         <Header/>
         <Hero/>
       </div>
