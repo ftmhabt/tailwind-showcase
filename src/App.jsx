@@ -4,7 +4,7 @@ import Body from "./components/body.jsx"
 function App() {
 
   return (
-      <div className="bg-[#010101] text-slate-50 w-screen">
+      <div className="bg-[#010101] text-slate-50 max-w-screen">
         <Header/>
         <Body/>
       </div>

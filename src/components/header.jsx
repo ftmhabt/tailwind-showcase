@@ -1,6 +1,6 @@
 export default function Header(){
     return(
-        <div className="flex gap-[3rem] p-[3rem] text-center">
+        <div className="flex gap-[3rem] p-[2rem] text-center max-w-[1000px] my-0 mx-auto">
             <div className="mr-auto font-black">
                 <div>future</div>
                 <div>mind</div>
